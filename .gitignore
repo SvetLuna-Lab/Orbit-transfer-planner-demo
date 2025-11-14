@@ -1,0 +1,9 @@
+pycache/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+.env/
+coverage.xml
+htmlcov/
+data/outputs/
