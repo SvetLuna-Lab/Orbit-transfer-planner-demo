@@ -1,0 +1,5 @@
+# Physical constants (SI unless noted)
+MU_EARTH = 3.986004418e14  # m^3/s^2
+R_EARTH = 6378.1363e3      # m
+DEG2RAD = 3.141592653589793 / 180.0
+RAD2DEG = 180.0 / 3.141592653589793
